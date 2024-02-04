@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 0c1746c41c572904ea7aa2670d4d55d6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FirstTilesetTemplate_0
+    21300002: FirstTilesetTemplate_1
+    21300004: FirstTilesetTemplate_2
+    21300006: FirstTilesetTemplate_3
+    21300008: FirstTilesetTemplate_4
+    21300010: FirstTilesetTemplate_5
+    21300012: FirstTilesetTemplate_6
+    21300014: FirstTilesetTemplate_7
+    21300016: FirstTilesetTemplate_8
+    21300018: FirstTilesetTemplate_9
+    21300020: FirstTilesetTemplate_10
+    21300022: FirstTilesetTemplate_11
+    21300024: FirstTilesetTemplate_12
+    21300026: FirstTilesetTemplate_13
+    21300028: FirstTilesetTemplate_14
+    21300030: FirstTilesetTemplate_15
+    21300032: FirstTilesetTemplate_16
+    21300034: FirstTilesetTemplate_17
+    21300036: FirstTilesetTemplate_18
+    21300038: FirstTilesetTemplate_19
+    21300040: FirstTilesetTemplate_20
+    21300042: FirstTilesetTemplate_21
+    21300044: FirstTilesetTemplate_22
+    21300046: FirstTilesetTemplate_23
+    21300048: FirstTilesetTemplate_24
+    21300050: FirstTilesetTemplate_25
+    21300052: FirstTilesetTemplate_26
+    21300054: FirstTilesetTemplate_27
+    21300056: FirstTilesetTemplate_28
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 485
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -38.5, y: -38.5}
+        - {x: -38.5, y: 38.5}
+        - {x: 38.5, y: 38.5}
+        - {x: 38.5, y: -38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a6fa9597824e0488cc13f8022692a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 485
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -39.5, y: -38.5}
+        - {x: -39.5, y: 39.5}
+        - {x: 39.5, y: 39.5}
+        - {x: 38.5, y: -38.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b4576d9711ca47956b2ea15be6e42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 485
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a84c2cc0601ea44fa2398c796789335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 479
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94bbb5a69c61ec418ad44b45455df61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 479
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b4b0a35ee26b408c315b85328b3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 485
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096832af3e2377d4397bab588f52ec9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e71afe10234146a414d7e2340ec90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16.5, y: -6.5}
+        - {x: -16.5, y: 15.5}
+        - {x: 4.5, y: 15.5}
+        - {x: 4.5, y: -6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd92a1df22dc90438292ddbb59c0fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 400
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba7ce939c20284ab4c43231cd7872b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 369
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc8389fd9d4df44a42b115971469ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 369
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad4528d77d3a14a8f7e82ba805ef5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_11
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 399
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f1043274907d84daee3cc56d5c6dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 316
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d42e9d0a882648aa8a99b53d1062c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 316
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ee6353c489024ab6db2ce331151f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 316
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcfc35751f45ab448d8f5fbc58185fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37fbd008c54e7c4f898f5610d7f8e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 241
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec5c054a7bd274685167503f5591d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_17
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 316
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20ae2ce40c27c42930b64ad5b1f9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 208
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6107bae11803ffe4fb9e77d30ba19cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 208
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d7d729bf3035e4583093b8f7bc4ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 208
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7086bcd576f877f468d9ea8008daebfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_21
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 150
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0a9d0da356f342852e13a9c9c9d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b65367b77b4747a0d95614b4ad054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 158
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77845c4897dcde4b8598dc1618a4b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 123
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5f10704d018e34a88176e39ae70513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 123
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6158d0a6a29d2314aa0183be9c6fe9ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 35
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e5f3d39a57db45abc9421846baaab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6113e03645ae25547839a553821aa328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstTilesetTemplate_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 35
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b647cdaee4b8449ff6e58baaeb6e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bfb063266254c0147b6c7014772103a0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

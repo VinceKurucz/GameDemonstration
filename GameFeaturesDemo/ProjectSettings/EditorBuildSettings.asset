@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f94d37f7cfe77324787617f66c3f4503
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 7a5ec92aa43bbc6459f449288331ecb0
+  - enabled: 0
+    path: Assets/Scenes/Act I/Home.unity
+    guid: 0c829faeeb085d04b8237d4892b0c003
+  - enabled: 0
+    path: Assets/Scenes/Act I/Grave.unity
+    guid: 04494187c08314444a5dab3abde0de80
+  - enabled: 0
+    path: Assets/Scenes/Act I/Garden.unity
+    guid: 25093761bef744e4e8239fda03f934fb
+  - enabled: 0
+    path: Assets/Scenes/Act I/Bridge.unity
+    guid: a302198ab93a40040a7e1d99381a426d
+  - enabled: 0
+    path: Assets/Scenes/Act I/Forrest.unity
+    guid: 8949571f1e5812c4b92172e04366199b
+  - enabled: 0
+    path: Assets/Scenes/Act I/ForrestRuins.unity
+    guid: d16abcad72ac6e64f821226e16e947a4
+  - enabled: 0
+    path: Assets/Scenes/Act I/ForrestRuinInside.unity
+    guid: b20443c3692803746a99407f88a1b51f
+  - enabled: 0
+    path: Assets/Scenes/Act I/DeepForrest.unity
+    guid: 84495486a411cba4c8e9ea25da010cf4
+  - enabled: 0
+    path: Assets/Scenes/Act I/UnderGround.unity
+    guid: 35d84ad5e25d35d46b24316eca9f19f4
+  - enabled: 0
+    path: Assets/Scenes/Act I/DeepUnderGround.unity
+    guid: de4f8af956c1677438f9ec067cec6d75
+  - enabled: 1
+    path: Assets/Scenes/Act I/Facility.unity
+    guid: 9965b472211c201498e7be90a73295e2
+  - enabled: 1
+    path: Assets/Scenes/Act I/FacilityPlatform.unity
+    guid: 4ba1ed82c3bd185489d8b9e48754e5c3
+  - enabled: 0
+    path: Assets/Scenes/Act I/WayUp.unity
+    guid: 4f2a0bfa691011e44893d13a2d8911fe
+  - enabled: 0
+    path: Assets/Scenes/Act I/PreBoss.unity
+    guid: 0291c211a22ca3742b647c5fb348fe4b
+  - enabled: 0
+    path: Assets/Scenes/Act I/Boss1.unity
+    guid: 107cf2a5fb9c2d5439dbf1374103c509
+  - enabled: 0
+    path: Assets/Scenes/Act I/PostBoss1.unity
+    guid: 5359f85a72eb02f4b9f7175dffd5d678
+  - enabled: 0
+    path: Assets/Scenes/Act I/PostBoss1UnderGround.unity
+    guid: bba2c6d1daa9d9e4db99f82cc9cafef3
+  - enabled: 0
+    path: Assets/Scenes/Act II/CityEnter.unity
+    guid: d3582fe47791c4b4eac83619d90f9a25
+  - enabled: 0
+    path: Assets/Scenes/Act II/City0(1).unity
+    guid: 3079db2b783a6064d8b20e4adbd63992
+  - enabled: 0
+    path: Assets/Scenes/Act II/Stairs0.unity
+    guid: ef183ccc85d4302439db649d5b2befa2
+  - enabled: 0
+    path: Assets/Scenes/Act II/PlantShop.unity
+    guid: 654428475ee81d545b9f8e4e6fc239c1
+  - enabled: 0
+    path: Assets/Scenes/Act II/Bakery.unity
+    guid: 3f15270226fc9a44cb7ec5ceb363b51d
+  - enabled: 0
+    path: Assets/Scenes/Act II/Restaurant.unity
+    guid: ced6605fe67425845bf13175dd51338e
+  - enabled: 0
+    path: Assets/Scenes/Act II/City1(1).unity
+    guid: 1ed84866fbea4d247b2c001d9b3b2414
+  - enabled: 0
+    path: Assets/Scenes/Act II/Stairs1.unity
+    guid: 3a3a0b713f8c6704cab5f5f31a68a4ca
+  - enabled: 0
+    path: Assets/Scenes/Act II/Hotel.unity
+    guid: c3a08530ddbb8a44f826fbd2544b8fe7
+  - enabled: 0
+    path: Assets/Scenes/Act II/Bookstore.unity
+    guid: 527fa38528d629448927cf85139036a5
+  - enabled: 0
+    path: Assets/Scenes/Act II/City2(1).unity
+    guid: 2c953a3518a376c4f96a5caea449209f
+  - enabled: 0
+    path: Assets/Scenes/Act II/Stairs2.unity
+    guid: bf74a7a0fa4cacd4d9c668fa312a00be
+  - enabled: 0
+    path: Assets/Scenes/Act II/Orphanage.unity
+    guid: 243fed79b68ba0d4e9cbe39708b49342
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Scene1.unity
+    guid: 4792f1a61b588f44a9354f4534e61604
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Scene2.unity
+    guid: c88b91e0d98dff143ac62dbd56fd78ce
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Scene3.unity
+    guid: 28e1a68e3a7e7dc499a7be987e24b0e3
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/SampleScene.unity
+    guid: d99d5ff9ad492244fb2f616b8d4ac977
+  m_configObjects: {}
